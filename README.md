@@ -10,7 +10,7 @@ I'm a backend developer with a prominent knewlege of frontend in HTML,CSS, Javas
 
 ## 🛠 Skills
 ### 🖥 Server site
-Laravel, Lumen, Java, PHP, Spring, Express js.
+Laravel, Lumen, PHP, Express js.
 ### 📱 Client site
 NextJs,Javascript, HTML, CSS, React js, Bootstrap.
 
